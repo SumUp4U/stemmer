@@ -1,5 +1,5 @@
 # coding=utf-8
-""" Sremming for russian texts """
+""" Stemming for russian texts """
 import argparse
 import datetime
 import logging
